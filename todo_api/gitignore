@@ -1,0 +1,23 @@
+# Security
+.env
+
+# Binaries
+main
+api
+user_api
+__debug_bin
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Dependencies
+vendor/
+
+# System files
+.DS_Store
+.idea/
+.vscode/
+
+# Docker data
+postgres_data/
